@@ -1,17 +1,25 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
+
+> This project is a web app for movie lovers to rate their favorite movies and create hosting watch-party at a specific location or virtual.
 
 ## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
+> The user will have to create an account, and login to be able to add reviews create watch-po
 
 ## Submission Instructions
 
 ### Overview
 Include overview here
 ### Features
-Include Features here
+* User login
+* Search
+* Rate
+* Create watch-party
 ### Technologies
-Include Technologies here
+* Spring boot
+* React (Tentative)
+* MySQL
+* The Move API
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+* Interacting with the API
+* Saving data from the movie Api to the database
