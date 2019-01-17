@@ -1,6 +1,6 @@
 # Project Outline
 
-> This project is a web app for movie lovers to rate their favorite movies and create hosting watch-party at a specific location or virtual.
+> This project is a web app for movie lovers to rate their favorite movies and host watch-party at a specific location or virtual.
 
 ## Assignment Description
 > The user will have to create an account, and login to be able to add reviews create watch-po
