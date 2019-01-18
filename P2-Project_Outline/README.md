@@ -22,4 +22,4 @@ Include overview here
 
 ### What I'll Have to Learn
 * Interacting with the API
-* Saving data from the movie Api to the database
+* Saving data from the movie Api to the database upon creating a new review
